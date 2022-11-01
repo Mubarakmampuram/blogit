@@ -1,0 +1,20 @@
+.container{
+    display: block;
+    background: rgb(71, 92, 212);
+    margin-top: 30px;
+    
+}
+.main{
+    
+   
+    background: rgb(255, 255, 255);
+    padding: 20px;
+}
+.title{
+    align-items: center;
+}
+.createbutton{
+    margin-top: 30px;
+    justify-content: flex-end;
+    margin-right: 70px;
+}
